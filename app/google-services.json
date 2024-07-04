@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826111294937",
+    "project_id": "madlabproject-fd926",
+    "storage_bucket": "madlabproject-fd926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826111294937:android:b7a91d5a2338f5301dadc8",
+        "android_client_info": {
+          "package_name": "com.example.getfeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwp0o4DKMIvvH3pCbAmWCOViNkpPrLag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826111294937:android:df78743f07c4ac4e1dadc8",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwp0o4DKMIvvH3pCbAmWCOViNkpPrLag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GetFeed</string>
+    <string name="shop">SHOP</string>
+    <string name="user">USER</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="con_tinue">CONTINUE</string>
+    <string name="HA">Already,Have an Account?</string>
+    <string name="NOA">No Account?</string>
+    <string name="Sn">Shop Name</string>
+    <string name="On">Owner Name</string>
+    <string name="addr">Address</string>
+    <string name="phno">Mobile Number</string>
+    <string name="Ea_location">Enable Location</string>
+    <string name="rate_worth_rate">Rate worth rate</string>
+    <string name="submit">SUBMIT</string>
+    <string name="shop_names">SHOP NAMES</string>
+    <string name="sr">See Responses</string>
+</resources>
